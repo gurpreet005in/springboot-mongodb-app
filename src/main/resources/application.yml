@@ -1,0 +1,5 @@
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb+srv://gurpreet005in:kBSCajXheg640gWo@cluster0.dnr5ib2.mongodb.net/?retryWrites=true&w=majority
+#      database: BookDb
